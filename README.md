@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hi there 👋 I'm Wan Mohd Yusri
 
-<!--
-**WanMohdYusri/WanMohdYusri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate and versatile developer with experience across various technologies and development environments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Technical Skills
+
+- 💻 **Operating Systems**: Windows & Linux  
+- 🛢️ **Databases**: MySQL, PostgreSQL, DB2  
+- 🧑‍💻 **Programming & Frameworks**:  
+  - PHP, Laravel  
+  - JavaScript: React, Angular, Vue.js  
+- 🔧 **DevOps & Architecture**:  
+  - Docker, Microservice Architecture  
+  - Elasticsearch  
+- 🔍 **Tools & Platforms**:  
+  - Git, Mantis Bug Tracker  
+  - Asana (Project Management)  
+  - ITSM (IT Service Management)
+
+---
+
+### 🧠 Soft Skills
+
+- 🧩 Strong Problem-Solving Ability  
+- 💬 Effective Communication  
+- 🤝 Team Collaboration  
+- 📝 Technical Documentation  
+  - SDLC, BRD, SRS, SDD, Test Cases
+
+---
+
+### 📫 Let’s Connect
+
+Feel free to reach out or collaborate on interesting projects.  
+📧 Email: *wanmohdyusri@gmail.com*  
+🌐 Portfolio: *[your website/LinkedIn here]*
+
+---
+
+⚡ *Fun Fact*: I'm always up for a new tech challenge and love optimizing systems for performance and scalability.
